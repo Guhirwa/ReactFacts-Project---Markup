@@ -46,4 +46,4 @@ _Final page screenshot_
 
 ## 🌐 Live Demo
 
-View the live demo: `your-live-demo-link`
+View the live demo: `https://reactfunfactsbyguhirwa.netlify.app/`
