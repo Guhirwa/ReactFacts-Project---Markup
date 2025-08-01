@@ -37,12 +37,9 @@ A simple, responsive React page that displays interesting facts about React. Bui
 
 ---
 
-## Screenshot
+## Figma Portfolio
 
-_Final page screenshot_
-
-![Result page screenshot](src/assets/reactFactsResult.png)
-
+_[Use This Link to check the Figma Template](https://www.figma.com/design/yXprTxi727JuPH2AuwQ2JI/ReactFacts--Copy-?node-id=0-1&t=JXv9JckwSvYHr8oO-1)_
 
 ## 🌐 Live Demo
 
